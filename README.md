@@ -1,2 +1,1 @@
-# otny-prediction-app
-Prediction Shiny App for OTNY
+# OTNY Predictive Analytics Shiny Application
